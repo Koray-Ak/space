@@ -20,5 +20,5 @@ then
 	echo "Cikis yaptiniz"
 exit 1
 
-fi
+fi2
 fi
