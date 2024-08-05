@@ -21,4 +21,4 @@ then
 exit 1
 
 fi
-fi2f
+fi
